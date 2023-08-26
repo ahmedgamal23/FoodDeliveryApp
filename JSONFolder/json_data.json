@@ -1,0 +1,46 @@
+[
+  {
+    "image": "assets/images/food1.jpg",
+    "name": "Rice Steak",
+    "time": "15 min",
+    "distance": "20Km",
+    "price": "$70",
+    "foodDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nulla justo, sagittis non orci a, hendrerit tristique augue. Proin id lobortis est. Donec ultrices venenatis accumsan. Vestibulum auctor fringilla nisl. Phasellus dictum a enim nec fermentum."
+  },
+  {
+    "image": "assets/images/food2.jpg",
+    "name": "Healthy Food",
+    "time": "25 min",
+    "distance": "30Km",
+    "price": "$95",
+    "foodDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nulla justo, sagittis non orci a, hendrerit tristique augue. Proin id lobortis est. Donec ultrices venenatis accumsan. Vestibulum auctor fringilla nisl. Phasellus dictum a enim nec fermentum."
+  },
+  {
+    "image": "assets/images/food3.jpg",
+    "name": "Potatoes Steak",
+    "time": "10 min",
+    "distance": "15Km",
+    "price": "$50",
+    "foodDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nulla justo, sagittis non orci a, hendrerit tristique augue. Proin id lobortis est. Donec ultrices venenatis accumsan. Vestibulum auctor fringilla nisl. Phasellus dictum a enim nec fermentum."
+  },
+  {
+    "image": "assets/images/food4.jpg",
+    "name": "Burger and Potatoes",
+    "time": "45 min",
+    "distance": "50Km",
+    "price": "$120",
+    "foodDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nulla justo, sagittis non orci a, hendrerit tristique augue. Proin id lobortis est. Donec ultrices venenatis accumsan. Vestibulum auctor fringilla nisl. Phasellus dictum a enim nec fermentum."
+  },
+  {
+    "image": "assets/images/food5.jpeg",
+    "name": "Rice Steak",
+    "time": "1 hour",
+    "distance": "85Km",
+    "price": "$150",
+    "foodDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nulla justo, sagittis non orci a, hendrerit tristique augue. Proin id lobortis est. Donec ultrices venenatis accumsan. Vestibulum auctor fringilla nisl. Phasellus dictum a enim nec fermentum."
+  }
+
+]
+
+
+
